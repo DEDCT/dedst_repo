@@ -1,0 +1,10 @@
+token = ''
+admins = [1727498996, 1727498996]
+
+support_username = 'LapsWine'
+projects = 'NavigatorNet'
+bughelp = 'LapsWine'
+arbitr = 'LapsWine'
+
+phone = 
+card = 
